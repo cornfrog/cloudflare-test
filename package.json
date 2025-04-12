@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "deploy": "vite build && warngler pages deploy dist",
+    "deploy": "vite build && wrangler pages deploy dist",
     "lint": "eslint .",
     "preview": "vite preview"
   },
